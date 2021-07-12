@@ -44,7 +44,7 @@ Use `shell` for code that should be ignored.
 
 ## Writing tests
 
-The test file is viewable here: https://github.com/dylanaraps/pure-bash-bible/blob/master/test.sh
+test.sh
 
 Example test:
 
