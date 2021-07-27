@@ -140,7 +140,7 @@ The contents of this book provide a reference for solving problems encountered w
 <!-- CHAPTER START -->
 # STRINGS
 
-## Trim leading and trailing white-space from string
+## Apare os espaços em branco à esquerda e à direita da string
 
 This is an alternative to `sed`, `awk`, `perl` and other tools. The
 function below works by finding all leading and trailing white-space and
